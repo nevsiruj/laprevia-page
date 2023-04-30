@@ -14,7 +14,7 @@
         <h4 class="text-2xl font-semibold text-blue-500">La Previa</h4>
         <p class="text-gray-500">
           <a
-            href="https://wa.me/3544444428"
+            href="https://wa.me/+543544444428"
             target="_blank"
             rel="noopener noreferrer"
             class="
