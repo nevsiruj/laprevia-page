@@ -12,7 +12,7 @@
           </p>
           <div class="flex justify-around">
             <a
-              href="https://wa.me/3544444428"
+              href="https://wa.me/+543544444428"
               class="
                 bg-green-500
                 text-white
